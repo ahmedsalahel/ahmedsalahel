@@ -17,8 +17,6 @@ I'm a passionate **Backend Developer** specializing in **Laravel**, modern PHP f
 🎯 **Specialization:** Backend Development with Laravel  
 💻 **Experience:** Advanced PHP, RESTful APIs, Database Design, System Architecture
 
----
-
 <div align="center">
 
 ### 💼 **Backend Tech Stack**
@@ -40,17 +38,9 @@ I'm a passionate **Backend Developer** specializing in **Laravel**, modern PHP f
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=ahmedsalahel&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-  alt="Ahmed Salah GitHub Stats" 
-  width="49%" 
-/>
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsalahel&show_icons=true&theme=radical&hide_border=true)
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsalahel&layout=compact&theme=radical&hide_border=true&langs_count=8" 
-  alt="Ahmed Salah Top Languages" 
-  width="49%" 
-/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsalahel&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -59,26 +49,21 @@ I'm a passionate **Backend Developer** specializing in **Laravel**, modern PHP f
 ## 🏆 Featured Projects
 
 ### 💼 **Portfolio & Professional**
-
 - **[Portfolio](https://github.com/ahmedsalahel/portfolio)** - Professional portfolio built with Laravel Blade and backend integration
 
 ### 🛒 **E-Commerce Backend Solutions**
-
 - **[Ecommerce](https://github.com/ahmedsalahel/Ecommerce)** - Full-featured e-commerce platform with advanced backend architecture
 - **[HerbNest-EG](https://github.com/ahmedsalahel/HerbNest-EG)** - B2B Export platform with complex order management system
 
 ### 📝 **Content Management Systems**
-
 - **[Blog](https://github.com/ahmedsalahel/Blog)** - Blog platform with content management backend
 - **[Mives](https://github.com/ahmedsalahel/mives)** - Scalable CMS for content delivery
 
 ### 🏢 **Enterprise Backend Projects**
-
 - **[Technomasr](https://github.com/ahmedsalahel/Technomasr)** - Corporate backend system
 - **[Sports-Spark](https://github.com/ahmedsalahel/sports-spark)** - Sports platform with real-time data management
 
 ### 🎓 **Advanced Learning & Architecture**
-
 - **[PHP-Group](https://github.com/ahmedsalahel/php-group)** - Advanced PHP patterns and solutions
 - **[Senior-Exam](https://github.com/ahmedsalahel/senior-Exam)** - Backend architecture patterns and best practices
 - **[Penguin-Starter-Kit](https://github.com/ahmedsalahel/penguin-starter-kit)** - Reusable Laravel backend template
@@ -116,7 +101,6 @@ I'm a passionate **Backend Developer** specializing in **Laravel**, modern PHP f
 
 ```php
 <?php
-
 while (learning && building) {
     design();
     code();
@@ -126,3 +110,38 @@ while (learning && building) {
     maintain();
     repeat();
 }
+```
+
+**"Write code that solves problems, not just code that works!"** 💡
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedsalahel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsalahel@example.com)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedsalahel&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you find value in my projects, please give them a star! ⭐
+
+Made with ❤️ by Ahmed Salah  
+**Backend Developer | Laravel Specialist**
+
+</div>
